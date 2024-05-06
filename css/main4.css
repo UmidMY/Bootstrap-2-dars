@@ -1,0 +1,30 @@
+.c1{
+    background: linear-gradient(12deg, #ffaa00, #ff4800);
+    border-radius: 35px;
+    margin-left: 450px;
+}
+.c2{
+    background: linear-gradient(12deg, #f600ff, #860aff);
+    border-radius: 35px;
+    margin-left: 20px;
+}
+.c3{
+    background: linear-gradient(12deg, #0f76ff, #0032c7);
+    border-radius: 35px;
+    margin-left: 20px;
+}
+.c4{
+    background: linear-gradient(12deg, #0f6fff, #00ff65);
+    border-radius: 35px;
+    margin-left: 20px;
+}
+.i{
+    border-radius:100px ;
+    margin-left: 200px;
+    margin-top: 50px;
+}
+.i1{
+    border-radius:100px ;
+    margin-left: 10px;
+    margin-top: 50px;
+}
